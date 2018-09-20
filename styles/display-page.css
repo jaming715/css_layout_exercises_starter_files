@@ -1,0 +1,49 @@
+.main {
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	font-size: 0;
+}
+
+.firstRow {
+	font-size: 0;
+}
+
+.first {
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.greenBox {	
+	background-color: green;
+}
+
+.blueBox {
+	background-color: blue;
+}
+
+.secondRow {
+	font-size: 0;
+}
+
+.second {
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.greyBox {
+	background-color: grey;
+}
+
+.blackBox {
+	background-color: black;
+}
+
+.orangeBox {
+	background-color: orange;
+}
